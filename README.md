@@ -62,7 +62,7 @@ The project repository is organized as follows:
 ├── README.md           <- README .
 ├── notebooks           <- Folder containing the final reports/results of this project.
 │   │
-│   └── Netflix_Stock_Price_Trend_Analysis.ipynb   <- Final notebook for the project.
+│   └── rossman_sales_forecasting.py   <- Final notebook for the project.
 ├── reports            <- Folder containing the final reports/results of this project.
 │   │
 │   └── Report.pdf     <- Final analysis report in PDF.
